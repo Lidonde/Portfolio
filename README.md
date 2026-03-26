@@ -2,16 +2,12 @@
 
 This project documents my process of setting up an AI-assisted development environment using Cursor IDE and integrating key extensions. It highlights my ability to learn new tools independently, troubleshoot issues, and clearly document my workflow.
 
----
-
 ## Tools Installed
 
 - Cursor IDE – AI-native code editor
 - Claude Code extension – for AI-assisted coding support
 - Codex extension – for code generation and logic assistance
 - GitHub – for version control and project hosting
-
----
 
 ## Steps Completed
 
@@ -24,8 +20,6 @@ This project documents my process of setting up an AI-assisted development envir
 7. Created and edited the README.md file  
 8. Staged, committed, and pushed changes to GitHub  
 
----
-
 ## Issues Encountered & Solutions
 
 - **Authentication delays during extension login**  
@@ -37,16 +31,12 @@ This project documents my process of setting up an AI-assisted development envir
 - **Multiple AI suggestions appearing simultaneously**  
   *Solution:* Adjusted extension usage to focus on one tool at a time  
 
----
-
 ## Key Learnings
 
 - Learned how to set up and navigate a new AI-powered IDE  
 - Gained hands-on experience with GitHub repositories and version control  
 - Improved my ability to troubleshoot setup issues independently  
 - Strengthened my documentation and structured thinking skills  
-
----
 
 ## Conclusion
 
