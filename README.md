@@ -48,8 +48,6 @@ This repository compiles **10 high-signal experts** across LinkedIn, YouTube, an
 
 The goal is to extract **real-world, actionable insights** that can later inform a **practical LinkedIn-led growth playbook**.
 
----
-
 ## Research Methodology
 
 1. **Topic Selection**  
@@ -71,8 +69,6 @@ The goal is to extract **real-world, actionable insights** that can later inform
    - `/research/linkedin-posts/` — posts organized by author  
    - `/research/youtube-transcripts/` — transcripts organized by video  
    - `/research/other/` — additional materials, including podcast summaries  
-
----
 
 ## Selected Experts
 
@@ -118,8 +114,6 @@ The goal is to extract **real-world, actionable insights** that can later inform
      - ["Driving customers through LinkedIn"](https://www.linkedin.com/posts/niall-ratcliffe_driving-customers-through-linkedin-activity-7445062832364130304-qkIt) — 3 minutes ago  
      - ["LinkedIn's rules have changed"](https://www.linkedin.com/posts/niall-ratcliffe_linkedins-rules-have-changed-ive-spent-activity-7443267764401618945-qhZI) — 4 days ago  
 
----
-
 ### YouTube Experts
 
 6. **Sam Dunning** — Founder @ Breaking B2B  
@@ -144,8 +138,6 @@ The goal is to extract **real-world, actionable insights** that can later inform
      - ["Alex Hormozi LinkedIn Growth Hacks for 2026"](https://youtu.be/giXUOd1F0F0) — Mar 2025  
      - ["My Actual Social Strategy Media For 2026"](https://youtu.be/dMZ-n2KSlxE) — 5 months ago  
 
----
-
 ### Podcast Expert
 
 10. **B2B SaaS Marketing Snacks** — Hosted by Stijn Hendrikse & Brian Graf  
@@ -153,8 +145,6 @@ The goal is to extract **real-world, actionable insights** that can later inform
    - **Episode:** *"How modern SaaS teams build scalable growth systems"* — Feb 11, 2026  
    - **Insights:** Tracking growth beyond vanity metrics, connecting marketing + product growth, AI as amplifier  
    - **Podcast link:** [Listen here](https://podcasts.apple.com/ke/podcast/b2b-saas-marketing-snacks/id1532272557)  
-
----
 
 ## Why These Experts Were Selected
 
